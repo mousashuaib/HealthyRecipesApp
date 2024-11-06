@@ -21,7 +21,7 @@ The app consists of three main activities:
    - **Detailed Food Information**: Each food item displays nutritional facts and benefits before ordering.
 
 ### 3. **About Page**
-   - **About Me**: Learn about the creator, **Musa Shuaib**, and the inspiration behind this application.
+   - **About Me**: Learn about the creator, **Mousa Shuaib**, and the inspiration behind this application.
    - **About the App**: A brief overview of the app's design and features.
 
 ## Layouts
@@ -46,11 +46,6 @@ The app utilizes two main layouts for UI design:
 - **Java**: For app logic and UI design.
 - **XML**: For layout design using `LinearLayout` and `ConstraintLayout`.
 - **Android Studio**: The primary IDE used for development.
-
-
-## Creator
-
-This application was designed and developed by **Mousa Shuaib**. Connect to learn more about the developer and the inspiration behind HealthyRecipesApp.
 
 ---
 Enjoy exploring and ordering delicious and healthy recipes with **HealthyRecipesApp**!
