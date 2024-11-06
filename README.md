@@ -47,9 +47,15 @@ The app utilizes two main layouts for UI design:
 - **XML**: For layout design using `LinearLayout` and `ConstraintLayout`.
 - **Android Studio**: The primary IDE used for development.
 
+
 ## Creator
 
 This application was designed and developed by **Mousa Shuaib**. Connect to learn more about the developer and the inspiration behind HealthyRecipesApp.
 
 ---
 Enjoy exploring and ordering delicious and healthy recipes with **HealthyRecipesApp**!
+
+
+
+![Capture](https://github.com/user-attachments/assets/3d7b1522-be98-4d24-beeb-34aa3bb37fd9)
+
