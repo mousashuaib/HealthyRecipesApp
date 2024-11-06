@@ -34,27 +34,22 @@ The app utilizes two main layouts for UI design:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/HealthyRecipesApp.git
+    https://github.com/mousashuaib/HealthyRecipesApp.git
     ```
 2. **Open in Android Studio**: Open the project in Android Studio to explore the code and run it on an emulator or physical device.
 
 3. **Build and Run**: Build the app in Android Studio and run it on your preferred device.
 
-## Screenshots
-
-- **Search Food Activity**: Displays search filters and food details.
-- **Order Summary Activity**: Shows the list of foods ordered with the total cost.
-- **List View of Foods**: A user-friendly list of all available recipes.
 
 ## Technologies Used
 
-- **Java/Kotlin**: For app logic and UI design.
+- **Java**: For app logic and UI design.
 - **XML**: For layout design using `LinearLayout` and `ConstraintLayout`.
 - **Android Studio**: The primary IDE used for development.
 
 ## Creator
 
-This application was designed and developed by **Musa Shuaib**. Connect to learn more about the developer and the inspiration behind HealthyRecipesApp.
+This application was designed and developed by **Mousa Shuaib**. Connect to learn more about the developer and the inspiration behind HealthyRecipesApp.
 
 ---
 Enjoy exploring and ordering delicious and healthy recipes with **HealthyRecipesApp**!
