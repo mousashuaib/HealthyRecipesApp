@@ -53,6 +53,6 @@ Enjoy exploring and ordering delicious and healthy recipes with **HealthyRecipes
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/3d7b1522-be98-4d24-beeb-34aa3bb37fd9" alt="Capture" width="30%" />
-    <img src="https://github.com/user-attachments/assets/b4906ed8-2302-447d-bde9-f99ac79e298d" alt="oo" width="30%" />
+    <img src="https://github.com/user-attachments/assets/3d7b1522-be98-4d24-beeb-34aa3bb37fd9" alt="Capture" width="40%" />
+    <img src="https://github.com/user-attachments/assets/b4906ed8-2302-447d-bde9-f99ac79e298d" alt="oo" width="40%" />
 </div>
